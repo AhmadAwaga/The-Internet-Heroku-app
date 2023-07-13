@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Regression Suite">
+    <test name="Chrome Test Cases">
+        <classes>
+
+            <class name="formAuthTest"></class>
+            <class name="ABTextTest"></class>
+            <class name="addRemoveElementTest"></class>
+            <class name="DropDownTests"></class>
+            <class name="frameTests"></class>
+            <class name="HoverTest"></class>
+            <class name="javaScriptAlertTest"></class>
+            <class name="KeyPressesTest"></class>
+            <class name="dragAndDropTest"></class>
+
+        </classes>
+
+
+    </test>
+</suite>
